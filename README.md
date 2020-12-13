@@ -5,7 +5,7 @@
 * Allows to create/modify a list of items/activities with the specific date
 * Allows to create/modify contact information
 
-# TECHNOLOGY USED-
+# TECHNOLOGY USED
 * ASP.NET MVC
 * ENTITY FRAMEWORK
 * SQL-SERVER
